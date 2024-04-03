@@ -5,6 +5,13 @@
 [1]: https://pypi.org/project/google-cloud-bigquery/#history
 
 
+## [3.20.2](https://github.com/googleapis/python-bigquery/compare/v3.20.1...v3.20.2) (2024-04-03)
+
+
+### Bug Fixes
+
+* Creates linting-typing.cfg in presubmit ([#1881](https://github.com/googleapis/python-bigquery/issues/1881)) ([c852c15](https://github.com/googleapis/python-bigquery/commit/c852c153c55025ba1187d61e313ead2308616c55))
+
 ## [3.20.1](https://github.com/googleapis/python-bigquery/compare/v3.20.0...v3.20.1) (2024-04-01)
 
 
